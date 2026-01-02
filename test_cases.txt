@@ -1,0 +1,29 @@
+============
+TEST CASE 1
+============
+Airline Carrier Code: WN (Southwest Airlines)
+Airport Code: ATL (Hartsfield-Jackson Atlanta International Airport)
+Season: summer
+Year: 2024
+Month: 7
+Arrival Flights: 5500
+Cancelled Flights: 120
+Diverted Flights: 10
+Historical Delay Rate: 0.32
+Total Delay Causes: 1600
+(Expected: 9000–11000 minutes)
+
+=============
+TEST CASE 2
+=============
+Airline Carrier Code: HA (Hawaiian Airlines)
+Airport Code: HNL (Honolulu)
+Season: summer
+Year: 2018
+Month: 6
+Arrival Flights: 300
+Cancelled Flights: 2
+Diverted Flights: 0
+Historical Delay Rate: 0.01
+Total Delay Causes: 10
+(Expected: 300–500 minutes)
