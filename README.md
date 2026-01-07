@@ -136,7 +136,7 @@ sudo usermod -aG docker ubuntu
 ```
 
 
-```
+
 
 #### 3. Build image
 
@@ -145,7 +145,6 @@ sudo usermod -aG docker ubuntu
 #### 4. Run on port 80
 
 ```docker run -d -p 80:8501 flight-delay-app```
-
 
 
 ## 📈 Model Training Pipeline
