@@ -168,6 +168,6 @@ sudo usermod -aG docker ubuntu
 
 ## ✨ Author
 
-swapnil iwarkar
-
+Swapnil Iwarkar
+Machine Learning | Data Science | MLOps
 
